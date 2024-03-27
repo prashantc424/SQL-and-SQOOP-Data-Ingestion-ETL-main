@@ -66,7 +66,7 @@ these things in your final submission.
 ● Mention your test cases for your project.
 
  ## Project Screenshot In PDF
-![DoctorOnCall OverView](https://github.com/prashantc424/SQL-and-SQOOP-Data-Ingestion-ETL-main/edit/main/Architecture%20ER%20Diagram.pdf)
+![OverView](https://github.com/prashantc424/SQL-and-SQOOP-Data-Ingestion-ETL-main/blob/main/Architecture%20ER%20Diagram.pdf)
 
 ## Contributing:
 
