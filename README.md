@@ -72,13 +72,13 @@ these things in your final submission.
 
 1. Fork the repository by clicking the "Fork" button on the top right corner of the project's GitHub page. This will create a copy of the project in your own GitHub account.
 
-2. Clone the forked repository to your local machine by running the command ``` git clone https://github.com/your-username/online-doctor-appointment.git ``` in your terminal.
+2. Clone the forked repository to your local machine by running the command ``` git clone https://github.com/prashantc424/SQL-and-SQOOP-Data-Ingestion-ETL-main ``` in your terminal.
 
 3. Install the project's dependencies by running npm install or yarn install in the project's root directory.
 Create a new branch for your changes by running the command ``` git checkout -b branch-name ```, where branch-name is a descriptive name for your branch.
 Make your desired changes to the code.
 
-4. Test your changes locally by running npm start or yarn start and accessing the project in your web browser at ``` http://localhost:3000 ``` or another specified URL.
+4. Test your changes locally by running npm start or yarn start and accessing the project in your web browser at ``` http://localhost:8080 ``` or another specified URL.
 5. Add and commit your changes to your local repository by running the command git add . followed by ``` git commit -m "Your commit message here" ```
 
 6. Push your changes to your forked repository by running the command ``` git push origin branch-name ```
